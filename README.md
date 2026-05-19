@@ -112,7 +112,8 @@ Client
 
 
 Server
-![alt text](server.png)
+<img width="1087" height="185" alt="image" src="https://github.com/user-attachments/assets/255d039c-b257-47da-87e3-a0c9d4b15870" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
