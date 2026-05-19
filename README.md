@@ -108,7 +108,8 @@ server_socket.close()
 ```
 ## Output:
 Client
-![alt text](client.png)
+<img width="1483" height="123" alt="image" src="https://github.com/user-attachments/assets/bd8be405-0ece-4dd6-93ad-9b96a8d9e399" />
+
 
 Server
 ![alt text](server.png)
